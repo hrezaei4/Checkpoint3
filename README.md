@@ -1,1 +1,1 @@
-# Checkpoint3
+Conclusion: Write a conclusion in the README.md that specifies the color of the text after the conflict is resolved (should be green).
